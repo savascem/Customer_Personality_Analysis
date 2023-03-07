@@ -1,4 +1,4 @@
-# Describe
+# About Dataset
 
 This dataset is shared on Kaggle. I preferred to do customer segmentation with these RF metrics. You can access the dataset and more information about it from the following link:
 
